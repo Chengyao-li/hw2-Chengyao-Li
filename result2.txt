@@ -1,0 +1,17 @@
+Section A: Action Items
+- Owner: Unclear - needs human review
+  Task: Unclear - needs human review
+  Deadline: Unclear - needs human review
+  Clarity note: No meeting notes were provided in the input, so no action items could be identified.
+
+Section B: Follow-Up Email
+Subject: Unclear - needs human review
+Email body:
+Dear Team,
+
+This follow-up email is generated based on the provided meeting notes.
+
+Unclear - needs human review: No meeting notes were provided in the input, so specific details, decisions, and next steps for this follow-up email could not be generated.
+
+Best regards,
+Business Writing Assistant

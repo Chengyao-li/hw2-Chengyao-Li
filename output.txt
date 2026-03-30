@@ -1,0 +1,48 @@
+Section A: Action Items
+
+*   **Owner:** Unclear - needs human review
+    **Task:** Prepare for and launch new app feature
+    **Deadline:** Next Friday
+    **Clarity note:** Unclear - needs human review
+
+*   **Owner:** Sarah
+    **Task:** Finish the draft
+    **Deadline:** Tuesday
+    **Clarity note:** Clear
+
+*   **Owner:** Kevin
+    **Task:** Review the budget
+    **Deadline:** Unclear - needs human review
+    **Clarity note:** Unclear - needs human review
+
+*   **Owner:** Unclear - needs human review
+    **Task:** Send short update to leadership
+    **Deadline:** Unclear - needs human review
+    **Clarity note:** Unclear - needs human review
+
+---
+
+Section B: Follow-Up Email
+
+**Subject:** Meeting Follow-up: App Feature Discussion & Actions
+
+**Email body:**
+
+Team,
+
+Thank you for our meeting today. Below is a summary of discussed items and proposed action points.
+
+**Key Discussion Points:**
+*   Discussion held regarding the launch of the new app feature next Friday.
+*   Request for a short update to be sent to leadership.
+
+**Action Items:**
+*   **Sarah:** Finish the draft by Tuesday.
+*   **Kevin:** Review the budget. (Deadline needs to be confirmed)
+*   **[Owner to be confirmed]:** Oversee new app feature launch by next Friday.
+*   **[Owner and deadline to be confirmed]:** Send short update to leadership.
+
+Please review these items and provide any necessary clarifications, especially regarding owners and deadlines for items currently marked as needing confirmation.
+
+Best regards,
+[Your Name/Team]

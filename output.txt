@@ -1,48 +1,43 @@
 Section A: Action Items
 
 *   **Owner:** Unclear - needs human review
-    **Task:** Prepare for and launch new app feature
-    **Deadline:** Next Friday
-    **Clarity note:** Unclear - needs human review
+    *   **Task:** Prepare for new app feature launch
+    *   **Deadline:** Next Friday
+    *   **Clarity note:** Owner for launch execution is unclear.
 
 *   **Owner:** Sarah
-    **Task:** Finish the draft
-    **Deadline:** Tuesday
-    **Clarity note:** Clear
+    *   **Task:** Finish draft
+    *   **Deadline:** Tuesday
+    *   **Clarity note:** Clear
 
 *   **Owner:** Kevin
-    **Task:** Review the budget
-    **Deadline:** Unclear - needs human review
-    **Clarity note:** Unclear - needs human review
+    *   **Task:** Review budget
+    *   **Deadline:** Unclear - needs human review
+    *   **Clarity note:** Deadline is unclear.
 
 *   **Owner:** Unclear - needs human review
-    **Task:** Send short update to leadership
-    **Deadline:** Unclear - needs human review
-    **Clarity note:** Unclear - needs human review
-
----
+    *   **Task:** Send short update to leadership
+    *   **Deadline:** Unclear - needs human review
+    *   **Clarity note:** Owner and deadline are unclear.
 
 Section B: Follow-Up Email
 
-**Subject:** Meeting Follow-up: App Feature Discussion & Actions
+**Subject:** Meeting Summary & Action Items
 
 **Email body:**
 
 Team,
 
-Thank you for our meeting today. Below is a summary of discussed items and proposed action points.
+Thank you for the productive discussion today.
 
-**Key Discussion Points:**
-*   Discussion held regarding the launch of the new app feature next Friday.
-*   Request for a short update to be sent to leadership.
+We discussed launching the new app feature next Friday.
 
-**Action Items:**
-*   **Sarah:** Finish the draft by Tuesday.
-*   **Kevin:** Review the budget. (Deadline needs to be confirmed)
-*   **[Owner to be confirmed]:** Oversee new app feature launch by next Friday.
-*   **[Owner and deadline to be confirmed]:** Send short update to leadership.
+Please see the key action items from our meeting:
 
-Please review these items and provide any necessary clarifications, especially regarding owners and deadlines for items currently marked as needing confirmation.
+*   Sarah: Finish draft (Due: Tuesday)
+*   Kevin: Review budget (Deadline: Unclear - needs human review)
+*   Unclear - needs human review: Prepare for new app feature launch (Due: Next Friday)
+*   Unclear - needs human review: Send short update to leadership (Deadline: Unclear - needs human review)
 
 Best regards,
-[Your Name/Team]
+[Your Name/Team Name]
